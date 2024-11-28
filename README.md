@@ -3,9 +3,9 @@ Tool that extracts accounts from a file
 
 Supported Formats:
 
-Username:LoginPage:Password
-LoginPage:Username:Password
-User:Email:Password
+1. Username:LoginPage:Password
+2. LoginPage:Username:Password
+3. User:Email:Password
 
 # How To Use
 
