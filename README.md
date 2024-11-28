@@ -6,6 +6,7 @@ Supported Formats:
 1. Username:LoginPage:Password
 2. LoginPage:Username:Password
 3. User:Email:Password
+4. Email:User:Password
 
 # How To Use
 
@@ -17,3 +18,5 @@ Supported Formats:
 
 
 ![image](https://github.com/user-attachments/assets/9d323a02-c8e5-4991-98ea-1f142d7c550a)
+
+![Screenshot 2024-11-28 111608](https://github.com/user-attachments/assets/bf506a6e-f333-4635-ab33-58f31f8692ba)
