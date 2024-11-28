@@ -1,5 +1,11 @@
 # UP-Extractor
-Simple tool that Extracts accounts from a file in a Userrname:LoginPage:Password Format
+Tool that extracts accounts from a file
+
+Supported Formats:
+
+Username:LoginPage:Password
+LoginPage:Username:Password
+User:Email:Password
 
 # How To Use
 
